@@ -1,0 +1,29 @@
+{
+  "device": {
+    "id": 1001,
+    "name": "Sensor-Room-A",
+    "battery": 87,
+    "status": {
+      "online": true,
+      "lowBattery": false,
+      "error": false,
+      "calibrated": true
+    }
+  },
+  "measurements": {
+    "temperature": {
+      "value": 23.5,
+      "unit": "celsius"
+    },
+    "humidity": {
+      "value": 65,
+      "unit": "percent"
+    },
+    "pressure": {
+      "value": 1013.25,
+      "unit": "hPa"
+    }
+  },
+  "timestamp": 1761307993338,
+  "formattedTime": "2025-10-24 20:13:13"
+}
