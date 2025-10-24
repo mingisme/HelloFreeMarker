@@ -13,6 +13,7 @@
     <modules>
         <module>json-transformer-app</module>
         <module>json-transformer-complex-app</module>
+        <module>json-transformer-jsonpath-app</module>
     </modules>
 
     <properties>

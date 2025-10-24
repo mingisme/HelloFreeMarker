@@ -1,0 +1,16 @@
+{
+  "device": {
+    "id": "iot-sensor-001",
+    "firmware": "v2.1.0",
+    "batteryLevel": 87
+  },
+  "measurements": {
+    "temperatureReadings": [23.5,21.8],
+    "temperatureLocations": ["room-a","room-b"],
+    "firstTemperature": [],
+    "humidityValue": [],
+    "allSensorTypes": ["temperature","humidity","temperature"],
+    "sensorCount": 3
+  },
+  "timestamp": 1,729,785,600,000
+}

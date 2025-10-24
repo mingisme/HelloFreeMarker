@@ -1,0 +1,28 @@
+{
+  "deviceId": "iot-sensor-001",
+  "timestamp": 1729785600000,
+  "sensors": [
+    {
+      "type": "temperature",
+      "unit": "celsius",
+      "value": 23.5,
+      "location": "room-a"
+    },
+    {
+      "type": "humidity",
+      "unit": "percent",
+      "value": 65,
+      "location": "room-a"
+    },
+    {
+      "type": "temperature",
+      "unit": "celsius",
+      "value": 21.8,
+      "location": "room-b"
+    }
+  ],
+  "metadata": {
+    "firmware": "v2.1.0",
+    "battery": 87
+  }
+}
