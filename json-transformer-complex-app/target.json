@@ -1,0 +1,30 @@
+{
+  "organizationReport": {
+    "companyName": "Tech Corp",
+    "age": 15,
+    "totalDepartments": 2,
+    "reportDate": "2024-10-24",
+    "employees": [
+      {
+        "employeeId": "EMP-001",
+        "fullName": "ALICE JOHNSON",
+        "department": "Engineering",
+        "position": "Senior Developer",
+        "skillCount": 3,
+        "primarySkill": "Java",
+        "allSkills": "Java, Python, AWS",
+        "salaryFormatted": "$120,000"
+      },
+      {
+        "employeeId": "EMP-003",
+        "fullName": "CAROL WHITE",
+        "department": "Sales",
+        "position": "Sales Manager",
+        "skillCount": 3,
+        "primarySkill": "Negotiation",
+        "allSkills": "Negotiation, CRM, Strategy",
+        "salaryFormatted": "$95,000"
+      }
+    ]
+  }
+}

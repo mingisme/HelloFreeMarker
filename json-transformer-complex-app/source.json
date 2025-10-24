@@ -1,0 +1,45 @@
+{
+  "company": {
+    "name": "Tech Corp",
+    "founded": 2010,
+    "departments": [
+      {
+        "id": "eng",
+        "name": "Engineering",
+        "employees": [
+          {
+            "id": 1,
+            "name": "Alice Johnson",
+            "role": "Senior Developer",
+            "skills": ["Java", "Python", "AWS"],
+            "salary": 120000
+          },
+          {
+            "id": 2,
+            "name": "Bob Smith",
+            "role": "DevOps Engineer",
+            "skills": ["Docker", "Kubernetes", "CI/CD"],
+            "salary": 110000
+          }
+        ]
+      },
+      {
+        "id": "sales",
+        "name": "Sales",
+        "employees": [
+          {
+            "id": 3,
+            "name": "Carol White",
+            "role": "Sales Manager",
+            "skills": ["Negotiation", "CRM", "Strategy"],
+            "salary": 95000
+          }
+        ]
+      }
+    ],
+    "metadata": {
+      "lastUpdated": "2024-10-24",
+      "version": "1.0"
+    }
+  }
+}
