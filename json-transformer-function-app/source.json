@@ -1,0 +1,9 @@
+{
+  "deviceId": "iot-sensor-001",
+  "timestamp": 1729785600000,
+  "temperature": {
+    "value": 23.5,
+    "unit": "celsius"
+  },
+  "location": "warehouse-a"
+}

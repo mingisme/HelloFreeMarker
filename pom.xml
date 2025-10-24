@@ -14,6 +14,7 @@
         <module>json-transformer-app</module>
         <module>json-transformer-complex-app</module>
         <module>json-transformer-jsonpath-app</module>
+        <module>json-transformer-function-app</module>
     </modules>
 
     <properties>

@@ -1,0 +1,13 @@
+{
+  "device": {
+    "id": "iot-sensor-001",
+    "name": "Temperature Sensor A",
+    "location": "WAREHOUSE-A"
+  },
+  "measurements": {
+    "temperatureCelsius": 23.5,
+    "temperatureFahrenheit": 74,
+    "unit": "celsius"
+  },
+  "timestamp": 1729785600000
+}
